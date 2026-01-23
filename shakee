@@ -1,0 +1,15 @@
+'''import calendar
+year=int(input("enter year"))
+month=int(input("enter month:"))
+cal=calendar.month(year,month)
+print(cal)
+print(calendar.calendar(2024))'''
+import random
+k=random.randint(1,5)
+guess=int(input("Enter your guess:"))
+if k==guess:
+    print("Guess correct")
+else:
+    print("Guess wrong")
+    print("The actual number :",k)
+
