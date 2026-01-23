@@ -1,31 +1,25 @@
-
 # Python Learning Repository 🐍
 
-This repository contains my Python learning journey and practice programs.
-I created this repo to strengthen my core Python concepts through hands-on coding.
+This repository contains my Python learning journey with topic-wise programs.
+It is structured for beginners to understand Python concepts step by step.
 
-## 📌 Topics Covered
-- Python Basics (variables, data types)
-- Control Statements (if-else, loops)
+## Topics Covered
+- Basics & Type Conversion
+- ASCII Values
+- Control Statements
+- Looping & Jumping Statements
 - Functions
-- Object-Oriented Programming (Classes & Objects)
-- Error Handling (try-except)
-- Python Interview Questions (practice)
+- Data Structures (Dictionary, Lists)
+- Object-Oriented Programming (OOPS)
+- File Handling
+- Error Handling
+- Interview Practice Questions
+- Mini Projects
 
-## 🎯 Purpose
-- Build strong programming fundamentals
-- Practice clean and readable code
-- Prepare for technical interviews and internships
+## Folder Structure
+Each folder represents a Python topic, and each file contains examples
+related to that topic.
 
-## 🛠️ Tools Used
-- Python 3.x
-- VS Code
-- Git & GitHub
-
-## 🚀 Future Plans
-- Add mini Python projects
-- Improve code structure and documentation
-
----
-
-📌 *This repository is actively updated as I continue learning Python.*
+## How to Run
+```bash
+python filename.py
